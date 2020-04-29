@@ -9,7 +9,8 @@ Exercise Steps/Instructions:
 
 ## ********************************
 ## Git Instructions
-- [ ] Fork this repository
+- [ ] Create a template copy of this repository by clicking : "Use this template"
+- [ ] Name the repository the same name as the master template repository.  
 - [ ] Add your TA as collaborator
 - [ ] Clone YOUR repo to your local computer
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
