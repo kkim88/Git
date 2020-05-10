@@ -1,6 +1,6 @@
 # Git
 Exercise Objective: 
-* Install Git on your machine and create a GitHub repository that you will upload work to for the duration of this boot camp.
+* Install Git on your machine and create a GitHub account that you will upload work to for the duration of this boot camp.
 
 Exercise Steps/Instructions:
 1. Download Git and install on your machine.
