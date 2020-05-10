@@ -18,7 +18,7 @@ Exercise Steps/Instructions:
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 ## ********************************
 
-* Copy the files from the HTML prework and paste it in the new cloned folder (e.g. index.html, index.css)
+* Copy the files from the HTML prework (Markup Exercise) and paste it in the new cloned folder (e.g. index.html, index.css)
 * Save your changes and then add, commit and push your files up to your repository
 * Create a new file using the command line named notes.txt
 * Add some text to the file notes.txt
@@ -32,6 +32,6 @@ Exercise Steps/Instructions:
 * Check the status, add, commit and push your changes
 * Go to your repository and make sure the notes.txt file is removed, and only HTML files remain
 
-3. Submit the exercise on the <a href="https://bit.ly/3aKtYAC" target="_blank">TEKcamp Portal</a>
+3. Submit the exercise on the <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
-4. Complete the Exercise Evaluation form on the  <a href="https://bit.ly/2KE32Yw" target="_blank">TEKcamp Portal</a>.
+4. Complete the Exercise Evaluation form on the  <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
