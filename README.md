@@ -32,6 +32,11 @@ Exercise Steps/Instructions:
 * Check the status, add, commit and push your changes
 * Go to your repository and make sure the notes.txt file is removed, and only HTML files remain
 
+**Bonus Functionality : 
+
+* Merge The <code>merge-this-branch</code> into the master branch.  Resolve any merge conflicts that may arise.
+
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
 4. Complete the Exercise Evaluation form in <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
+
