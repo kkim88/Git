@@ -34,7 +34,7 @@ Exercise Steps/Instructions:
 
 **Bonus Functionality : 
 
-* Merge The <code>merge-this-branch</code> into the master branch.  Resolve any merge conflicts that may arise.
+* Merge The <code>merge-this-branch</code> into the master branch.  Ger rid of the readme instructions from the master branch.  Keep this code.  Resolve any merge conflicts that may arise.
 
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
