@@ -1,6 +1,6 @@
 # Git
 Exercise Objective: 
-* Install Git on your machine and create a GitHub account that you will upload work to for the duration of this boot camp.
+* Understanding how to use git and GitHub, and to learn the general git work flow @ TEKcamp.
 
 Exercise Steps/Instructions:
 1. Download Git and install on your machine.
@@ -13,10 +13,10 @@ Exercise Steps/Instructions:
 - [ ] Name the repository the same name as the master template repository.  
 - [ ] Add your TA as collaborator
 - [ ] Clone YOUR repo to your local computer
-- [ ] For this assignment, you will be following the instructions below
+- [ ] For this assignment, you will be following the instructions below:
 ## ********************************
 
-* Copy the html file from the prework (Markup Exercise) and paste it in the new cloned folder (e.g. index.html)
+* Copy the html file from the prework (Markup Exercise) and paste it in the new cloned folder.  (e.g. index.html)
 * Create a new file using the command line called notes.txt
 * Add some text to the notes.txt file.
 * Create a new branch called html-branch
