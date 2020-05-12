@@ -13,26 +13,26 @@ Exercise Steps/Instructions:
 - [ ] Name the repository the same name as the master template repository.  
 - [ ] Add your TA as collaborator
 - [ ] Clone YOUR repo to your local computer
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ ] For this assignment, you will be following the instructions below
 ## ********************************
 
-* Copy the files from the HTML prework (Markup Exercise) and paste it in the new cloned folder (e.g. index.html, index.css)
-* Save your changes and then add, commit and push your files up to your repository
-* Create a new file using the command line named notes.txt
-* Add some text to the file notes.txt
-* Create a new branch call newBranch
-* Move the HTML to the newBranch and leave the notes.txt file in the master branch
-* Save the changes and then add, commit and push your files up to your repository
-* Refresh your repository to make sure your files got uploaded and the branches got updated
-* Go back and delete the file note.txt using Git
-* Move the HTML files back to the master branch
-* Delete the newBranch 
-* Check the status, add, commit and push your changes
-* Go to your repository and make sure the notes.txt file is removed, and only HTML files remain
+* Copy the html file from the prework (Markup Exercise) and paste it in the new cloned folder (e.g. index.html)
+* Create a new file using the command line called notes.txt
+* Add some text to the notes.txt file.
+* Create a new branch called html-branch
+* Move the html file to the html-branch and leave the notes.txt file in the master branch
+* Add three <pre>&lt;p&gt; tags with "lorem ipsum" paragraph text to the html file, which should now be on the html-branch.  You can find "lorem ipsum" at the following link : https://loremipsum.io/
+* Save your changes, then add, commit and push your files up to the html-branch repository on github. Make sure you add a descriptive message for your commit.
+* Refresh your repository to make sure your file was uploaded and the html-branch was updated.
+* Create another branch called text-branch
+* Move the notes.txt from master to the text-branch. The master branch should now be completely empty at this point.
+* Check the status, add, commit and push your changes to the text-branch.  Make sure you add a descriptive message for your commit.
+* Add 3 additional lorem-ipsum paragraphs into the notes.txt file which should now be on the text-branch.
+* Commit and push your additional changes to the text-branch on GitHub.  Make sure you add a descriptive message for your commit.
+* On GitHub, verify that the master branch only has the README.md file with nothing else.  Verify that the html-branch and the text-branch each have a respective .html and .txt file.
+Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
-**Bonus Functionality : 
+**Bonus Goals: 
 
 * Merge The <code>merge-this-branch</code> into the master branch.  Ger rid of the readme instructions from the master branch.  Keep this code.  Resolve any merge conflicts that may arise.
 
