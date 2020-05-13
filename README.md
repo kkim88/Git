@@ -21,7 +21,7 @@ Exercise Steps/Instructions:
 * Add some text to the notes.txt file.
 * Create a new branch called html-branch
 * Move the html file to the html-branch and leave the notes.txt file in the master branch
-* Add three <pre>&lt;p&gt; tags with "lorem ipsum" paragraph text to the html file, which should now be on the html-branch.  You can find "lorem ipsum" at the following link : https://loremipsum.io/
+* Add three &lt;p&gt; tags with "lorem ipsum" paragraph text to the html file, which should now be on the html-branch.  You can find "lorem ipsum" at the following link : https://loremipsum.io/
 * Save your changes, then add, commit and push your files up to the html-branch repository on github. Make sure you add a descriptive message for your commit.
 * Refresh your repository to make sure your file was uploaded and the html-branch was updated.
 * Create another branch called text-branch
