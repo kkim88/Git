@@ -34,7 +34,7 @@ Submit a pull request for both the html-branch and the text-branch to be merged 
 
 **Bonus Goal: 
 
-* Merge The <code>merge-this-branch</code> into the master branch.  If you run into a merge conflict, get rid of the bonus goals bullet on the master branch of the README file and replace it with this bullet.
+* Merge The <code>merge-this-branch</code> into the master branch.  If you run into a merge conflict, get rid of the bonus goals bullet on the master branch of the README file and replace it with this bullet.  Also, keep all the data from both the merge-this-brarnch and the master branch
 
 3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
 
