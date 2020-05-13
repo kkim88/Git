@@ -1,6 +1,6 @@
 # Git
 Exercise Objective: 
-* Understanding how to use git and GitHub, and to learn the general git work flow @ TEKcamp.
+* Understanding how to use Git and GitHub, and to learn the general git work flow @ TEKcamp.
 
 Exercise Steps/Instructions:
 1. Download Git and install on your machine.
